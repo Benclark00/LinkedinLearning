@@ -1,3 +1,4 @@
+'''Code from data science book'''
 import matplotlib.pyplot as plt
 friends = [70,65,72,63,71,64,60,64,67]
 minutes = [175,170,205,120,220, 130,105, 145, 190]
